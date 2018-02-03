@@ -1,0 +1,5 @@
+To run the code move to directory src in your command line. 
+Compile with: gcc -o ohjelma main.c source.c 
+or: gcc -o ohjelma main_v2.c source.c
+
+both of them have some string(s) they'll first encode and then decode and print. 
